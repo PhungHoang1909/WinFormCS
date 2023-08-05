@@ -1,0 +1,6 @@
+D:\LTGD\DocFileText\DocFileText\bin\Debug\DocFileText.exe.config
+D:\LTGD\DocFileText\DocFileText\bin\Debug\DocFileText.exe
+D:\LTGD\DocFileText\DocFileText\bin\Debug\DocFileText.pdb
+D:\LTGD\DocFileText\DocFileText\obj\Debug\DocFileText.csprojResolveAssemblyReference.cache
+D:\LTGD\DocFileText\DocFileText\obj\Debug\DocFileText.exe
+D:\LTGD\DocFileText\DocFileText\obj\Debug\DocFileText.pdb
