@@ -1,0 +1,9 @@
+D:\LTGD\Lab7_WF\Lab7_WF\bin\Debug\Lab7_WF.exe.config
+D:\LTGD\Lab7_WF\Lab7_WF\bin\Debug\Lab7_WF.exe
+D:\LTGD\Lab7_WF\Lab7_WF\bin\Debug\Lab7_WF.pdb
+D:\LTGD\Lab7_WF\Lab7_WF\obj\Debug\Lab7_WF.csprojResolveAssemblyReference.cache
+D:\LTGD\Lab7_WF\Lab7_WF\obj\Debug\Lab7_WF.Form1.resources
+D:\LTGD\Lab7_WF\Lab7_WF\obj\Debug\Lab7_WF.Properties.Resources.resources
+D:\LTGD\Lab7_WF\Lab7_WF\obj\Debug\Lab7_WF.csproj.GenerateResource.Cache
+D:\LTGD\Lab7_WF\Lab7_WF\obj\Debug\Lab7_WF.exe
+D:\LTGD\Lab7_WF\Lab7_WF\obj\Debug\Lab7_WF.pdb
