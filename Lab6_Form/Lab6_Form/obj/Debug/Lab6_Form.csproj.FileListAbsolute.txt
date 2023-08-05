@@ -1,0 +1,9 @@
+D:\LTGD\Lab6_Form\Lab6_Form\bin\Debug\Lab6_Form.exe.config
+D:\LTGD\Lab6_Form\Lab6_Form\bin\Debug\Lab6_Form.exe
+D:\LTGD\Lab6_Form\Lab6_Form\bin\Debug\Lab6_Form.pdb
+D:\LTGD\Lab6_Form\Lab6_Form\obj\Debug\Lab6_Form.csprojResolveAssemblyReference.cache
+D:\LTGD\Lab6_Form\Lab6_Form\obj\Debug\Lab6_Form.Form1.resources
+D:\LTGD\Lab6_Form\Lab6_Form\obj\Debug\Lab6_Form.Properties.Resources.resources
+D:\LTGD\Lab6_Form\Lab6_Form\obj\Debug\Lab6_Form.csproj.GenerateResource.Cache
+D:\LTGD\Lab6_Form\Lab6_Form\obj\Debug\Lab6_Form.exe
+D:\LTGD\Lab6_Form\Lab6_Form\obj\Debug\Lab6_Form.pdb
