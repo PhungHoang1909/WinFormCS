@@ -1,0 +1,10 @@
+D:\LTGD\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe.config
+D:\LTGD\PayrollApp\PayrollApp\obj\Debug\PayrollApp.csprojResolveAssemblyReference.cache
+D:\LTGD\PayrollApp\PayrollApp\obj\Debug\PayrollApp.Form1.resources
+D:\LTGD\PayrollApp\PayrollApp\obj\Debug\PayrollApp.Form2.resources
+D:\LTGD\PayrollApp\PayrollApp\obj\Debug\PayrollApp.Properties.Resources.resources
+D:\LTGD\PayrollApp\PayrollApp\obj\Debug\PayrollApp.csproj.GenerateResource.Cache
+D:\LTGD\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe
+D:\LTGD\PayrollApp\PayrollApp\bin\Debug\PayrollApp.pdb
+D:\LTGD\PayrollApp\PayrollApp\obj\Debug\PayrollApp.exe
+D:\LTGD\PayrollApp\PayrollApp\obj\Debug\PayrollApp.pdb
